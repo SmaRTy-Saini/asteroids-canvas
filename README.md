@@ -43,16 +43,6 @@ No frameworks. No build process. Just clean browser-native code.
 
 ---
 
-## ▶️ Run Locally
-
-Simply open `index.html` in any modern browser.
-
-```bash
-git clone https://github.com/smarty-saini/Games-HTML-Files.git
-cd asteroids-canvas
-open index.html
-
-
 ## Author
 
 **Smarty Saini**  
@@ -63,4 +53,15 @@ open index.html
 - **Medium:** https://medium.com/@contact_26633
 - **Gumroad:** https://smartysaini.gumroad.com/
 - **TryHackMe:** https://tryhackme.com/p/SmaRTySaini
+  
+
+## ▶️ Run Locally
+
+Simply open `index.html` in any modern browser.
+
+```bash
+git clone https://github.com/smarty-saini/Games-HTML-Files.git
+cd asteroids-canvas
+open index.html
+
 

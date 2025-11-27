@@ -53,7 +53,7 @@ cd asteroids-canvas
 open index.html
 
 
-## 👨‍💻 Author
+## Author
 
 **Smarty Saini**  
 

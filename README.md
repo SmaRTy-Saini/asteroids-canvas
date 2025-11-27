@@ -60,7 +60,7 @@ No frameworks. No build process. Just clean browser-native code.
 Simply open `index.html` in any modern browser.
 
 ```bash
-git clone https://github.com/smarty-saini/Games-HTML-Files.git
+git clone https://github.com/smarty-saini/asteroids-canvas.git
 cd asteroids-canvas
 open index.html
 
